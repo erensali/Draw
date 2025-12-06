@@ -1,0 +1,69 @@
+C:\Users\MiglenaPC\Desktop\CGProject\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\MiglenaPC\Desktop\CGProject\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+C:\Users\MiglenaPC\Desktop\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\MiglenaPC\Desktop\CGProject\obj\Debug\Draw.MainForm.resources
+C:\Users\MiglenaPC\Desktop\CGProject\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\MiglenaPC\Desktop\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\MiglenaPC\Desktop\CGProject\bin\Debug\Draw.exe.config
+C:\Users\MiglenaPC\Desktop\CGProject\bin\Debug\Draw.exe
+C:\Users\MiglenaPC\Desktop\CGProject\bin\Debug\Draw.pdb
+C:\Users\MiglenaPC\Desktop\CGProject\obj\Debug\Draw.exe
+C:\Users\MiglenaPC\Desktop\CGProject\obj\Debug\Draw.pdb
+C:\Users\MiglenaPC\Desktop\CGProject\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\MiglenaPC\Desktop\trunk\trunk\CGProject\bin\Debug\Draw.exe.config
+C:\Users\MiglenaPC\Desktop\trunk\trunk\CGProject\bin\Debug\Draw.exe
+C:\Users\MiglenaPC\Desktop\trunk\trunk\CGProject\bin\Debug\Draw.pdb
+C:\Users\MiglenaPC\Desktop\trunk\trunk\CGProject\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\MiglenaPC\Desktop\trunk\trunk\CGProject\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+C:\Users\MiglenaPC\Desktop\trunk\trunk\CGProject\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\MiglenaPC\Desktop\trunk\trunk\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\MiglenaPC\Desktop\trunk\trunk\CGProject\obj\Debug\Draw.MainForm.resources
+C:\Users\MiglenaPC\Desktop\trunk\trunk\CGProject\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\MiglenaPC\Desktop\trunk\trunk\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\MiglenaPC\Desktop\trunk\trunk\CGProject\obj\Debug\Draw.exe
+C:\Users\MiglenaPC\Desktop\trunk\trunk\CGProject\obj\Debug\Draw.pdb
+E:\CGProject\bin\Debug\Draw.exe.config
+E:\CGProject\bin\Debug\Draw.exe
+E:\CGProject\bin\Debug\Draw.pdb
+E:\CGProject\obj\Debug\Draw.csproj.AssemblyReference.cache
+E:\CGProject\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+E:\CGProject\obj\Debug\Draw.Properties.Resources.resources
+E:\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+E:\CGProject\obj\Debug\Draw.MainForm.resources
+E:\CGProject\obj\Debug\Draw.csproj.GenerateResource.cache
+E:\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+E:\CGProject\obj\Debug\Draw.exe
+E:\CGProject\obj\Debug\Draw.pdb
+C:\Users\user\Desktop\Programirane\proekt\CGProject\bin\Debug\Draw.exe.config
+C:\Users\user\Desktop\Programirane\proekt\CGProject\bin\Debug\Draw.exe
+C:\Users\user\Desktop\Programirane\proekt\CGProject\bin\Debug\Draw.pdb
+C:\Users\user\Desktop\Programirane\proekt\CGProject\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programirane\proekt\CGProject\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\user\Desktop\Programirane\proekt\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\user\Desktop\Programirane\proekt\CGProject\obj\Debug\Draw.MainForm.resources
+C:\Users\user\Desktop\Programirane\proekt\CGProject\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Programirane\proekt\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programirane\proekt\CGProject\obj\Debug\Draw.exe
+C:\Users\user\Desktop\Programirane\proekt\CGProject\obj\Debug\Draw.pdb
+F:\Programirane\CGProject\bin\Debug\Draw.exe.config
+F:\Programirane\CGProject\bin\Debug\Draw.exe
+F:\Programirane\CGProject\bin\Debug\Draw.pdb
+F:\Programirane\CGProject\obj\Debug\Draw.csproj.AssemblyReference.cache
+F:\Programirane\CGProject\obj\Debug\Draw.Properties.Resources.resources
+F:\Programirane\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+F:\Programirane\CGProject\obj\Debug\Draw.MainForm.resources
+F:\Programirane\CGProject\obj\Debug\Draw.csproj.GenerateResource.cache
+F:\Programirane\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+F:\Programirane\CGProject\obj\Debug\Draw.exe
+F:\Programirane\CGProject\obj\Debug\Draw.pdb
+F:\1vi kurs\Programirane\CGProject\bin\Debug\Draw.exe.config
+F:\1vi kurs\Programirane\CGProject\bin\Debug\Draw.exe
+F:\1vi kurs\Programirane\CGProject\bin\Debug\Draw.pdb
+F:\1vi kurs\Programirane\CGProject\obj\Debug\Draw.csproj.AssemblyReference.cache
+F:\1vi kurs\Programirane\CGProject\obj\Debug\Draw.Properties.Resources.resources
+F:\1vi kurs\Programirane\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+F:\1vi kurs\Programirane\CGProject\obj\Debug\Draw.MainForm.resources
+F:\1vi kurs\Programirane\CGProject\obj\Debug\Draw.csproj.GenerateResource.cache
+F:\1vi kurs\Programirane\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+F:\1vi kurs\Programirane\CGProject\obj\Debug\Draw.exe
+F:\1vi kurs\Programirane\CGProject\obj\Debug\Draw.pdb
